@@ -1,0 +1,5 @@
+<map id="CChooseConnectionMode" name="CChooseConnectionMode">
+<area shape="rect" id="node1" title=" " alt="" coords="5,155,193,181"/>
+<area shape="rect" id="node2" href="$classCButtonMenuMode.html" title=" " alt="" coords="26,80,173,107"/>
+<area shape="rect" id="node3" href="$classCApplicationMode.html" title="This class represents the &quot;state&quot; of our game." alt="" coords="29,5,169,32"/>
+</map>

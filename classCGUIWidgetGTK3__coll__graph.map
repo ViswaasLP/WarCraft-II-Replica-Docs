@@ -1,0 +1,12 @@
+<map id="CGUIWidgetGTK3" name="CGUIWidgetGTK3">
+<area shape="rect" id="node1" title=" " alt="" coords="695,144,831,171"/>
+<area shape="rect" id="node2" href="$classCGUIWidget.html" title=" " alt="" coords="335,5,436,32"/>
+<area shape="rect" id="node3" title=" " alt="" coords="285,57,485,98"/>
+<area shape="rect" id="node4" href="$structSGUIKeyEvent.html" title=" " alt="" coords="328,123,443,149"/>
+<area shape="rect" id="node5" href="$structSGUIModifierType.html" title=" " alt="" coords="19,173,156,200"/>
+<area shape="rect" id="node7" href="$structSGUIMotionEvent.html" title=" " alt="" coords="317,173,453,200"/>
+<area shape="rect" id="node8" href="$structSGUIButtonEvent.html" title=" " alt="" coords="318,227,453,253"/>
+<area shape="rect" id="node6" href="$structSGUIKeyType.html" title="All possible input from keyboard." alt="" coords="33,83,141,109"/>
+<area shape="rect" id="node9" href="$structSGUIButtonEventType.html" title=" " alt="" coords="5,264,169,291"/>
+<area shape="rect" id="node10" href="$structSGUIConfigureEvent.html" title=" " alt="" coords="309,287,462,313"/>
+</map>

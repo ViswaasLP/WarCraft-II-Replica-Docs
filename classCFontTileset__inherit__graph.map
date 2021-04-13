@@ -1,0 +1,5 @@
+<map id="CFontTileset" name="CFontTileset">
+<area shape="rect" id="node1" title=" " alt="" coords="49,155,152,181"/>
+<area shape="rect" id="node2" href="$classCGraphicMulticolorTileset.html" title=" " alt="" coords="5,80,196,107"/>
+<area shape="rect" id="node3" href="$classCGraphicTileset.html" title=" " alt="" coords="38,5,163,32"/>
+</map>

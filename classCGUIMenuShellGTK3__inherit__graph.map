@@ -1,0 +1,11 @@
+<map id="CGUIMenuShellGTK3" name="CGUIMenuShellGTK3">
+<area shape="rect" id="node1" title=" " alt="" coords="80,244,239,271"/>
+<area shape="rect" id="node8" href="$classCGUIMenuBarGTK3.html" title=" " alt="" coords="5,319,153,345"/>
+<area shape="rect" id="node9" href="$classCGUIMenuGTK3.html" title=" " alt="" coords="177,319,304,345"/>
+<area shape="rect" id="node2" href="$classCGUIMenuShell.html" title=" " alt="" coords="17,169,139,196"/>
+<area shape="rect" id="node3" href="$classCGUIContainer.html" title=" " alt="" coords="25,95,144,121"/>
+<area shape="rect" id="node5" href="$classCGUIContainerGTK3.html" title=" " alt="" coords="164,169,317,196"/>
+<area shape="rect" id="node4" href="$classCGUIWidget.html" title=" " alt="" coords="34,13,135,39"/>
+<area shape="rect" id="node6" href="$classCGUIWidgetGTK3.html" title=" " alt="" coords="173,95,309,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="159,5,359,47"/>
+</map>

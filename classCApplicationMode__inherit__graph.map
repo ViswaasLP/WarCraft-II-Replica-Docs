@@ -1,0 +1,17 @@
+<map id="CApplicationMode" name="CApplicationMode">
+<area shape="rect" id="node1" title="This class represents the &quot;state&quot; of our game." alt="" coords="5,284,145,311"/>
+<area shape="rect" id="node2" href="$classCBattleMode.html" title=" " alt="" coords="239,107,345,133"/>
+<area shape="rect" id="node3" href="$classCButtonMenuMode.html" title=" " alt="" coords="219,157,365,184"/>
+<area shape="rect" id="node9" href="$classCEditOptionsMode.html" title=" " alt="" coords="221,259,363,285"/>
+<area shape="rect" id="node13" href="$classCMapSelectionMode.html" title="This class contains all the information we need to exhibit map&#45;selection interface." alt="" coords="215,309,369,336"/>
+<area shape="rect" id="node14" href="$classCMapServerSelectionMode.html" title="This class contains all the information we need to exhibit map&#45;selection interface." alt="" coords="193,360,391,387"/>
+<area shape="rect" id="node15" href="$classCPlayerAIColorSelectMode.html" title=" " alt="" coords="195,411,389,437"/>
+<area shape="rect" id="node4" href="$classCBattleMenuMode.html" title=" " alt="" coords="481,5,623,32"/>
+<area shape="rect" id="node5" href="$classCChooseConnectionMode.html" title=" " alt="" coords="458,56,646,83"/>
+<area shape="rect" id="node6" href="$classCMainMenuMode.html" title=" " alt="" coords="485,107,619,133"/>
+<area shape="rect" id="node7" href="$classCMultiPlayerOptionsMenuMode.html" title=" " alt="" coords="439,157,665,184"/>
+<area shape="rect" id="node8" href="$classCOptionsMenuMode.html" title=" " alt="" coords="475,208,629,235"/>
+<area shape="rect" id="node10" href="$classCNetworkOptionsMode.html" title=" " alt="" coords="466,259,638,285"/>
+<area shape="rect" id="node11" href="$classCServerConnectMenuMode.html" title=" " alt="" coords="453,309,651,336"/>
+<area shape="rect" id="node12" href="$classCSoundOptionsMode.html" title=" " alt="" coords="473,360,631,387"/>
+</map>

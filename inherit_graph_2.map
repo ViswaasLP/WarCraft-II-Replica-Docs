@@ -1,0 +1,35 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classCDataSink.html" title=" " alt="" coords="53,107,144,133"/>
+<area shape="rect" id="node2" href="$classCFileDataSink.html" title=" " alt="" coords="265,107,379,133"/>
+<area shape="rect" id="node3" href="$classCDataSource.html" title=" " alt="" coords="45,31,152,57"/>
+<area shape="rect" id="node4" href="$classCFileDataSource.html" title="This class contains the absolute path to the src file and its corresponding file descriptor." alt="" coords="257,56,387,83"/>
+<area shape="rect" id="node5" href="$classCMemoryDataSource.html" title=" " alt="" coords="242,5,402,32"/>
+<area shape="rect" id="node6" href="$classCGraphicSurface.html" title="This class contain all the information we need to exhibit a GUI." alt="" coords="33,208,164,235"/>
+<area shape="rect" id="node7" href="$classCGraphicSurfaceCairo.html" title=" " alt="" coords="240,208,404,235"/>
+<area shape="rect" id="node8" href="$classCGUIWidget.html" title=" " alt="" coords="48,385,149,412"/>
+<area shape="rect" id="node9" href="$classCGUIContainer.html" title=" " alt="" coords="263,487,381,513"/>
+<area shape="rect" id="node25" href="$classCGUIDrawingArea.html" title=" " alt="" coords="253,411,391,437"/>
+<area shape="rect" id="node27" href="$classCGUILabel.html" title=" " alt="" coords="277,309,367,336"/>
+<area shape="rect" id="node29" href="$classCGUIWidgetGTK3.html" title=" " alt="" coords="254,360,390,387"/>
+<area shape="rect" id="node10" href="$classCGUIBox.html" title=" " alt="" coords="499,411,579,437"/>
+<area shape="rect" id="node12" href="$classCGUIContainerGTK3.html" title=" " alt="" coords="463,461,616,488"/>
+<area shape="rect" id="node19" href="$classCGUIMenuItem.html" title=" " alt="" coords="479,512,600,539"/>
+<area shape="rect" id="node20" href="$classCGUIMenuShell.html" title=" " alt="" coords="478,639,601,665"/>
+<area shape="rect" id="node23" href="$classCGUIWindow.html" title=" " alt="" coords="486,563,593,589"/>
+<area shape="rect" id="node11" href="$classCGUIBoxGTK3.html" title=" " alt="" coords="704,411,819,437"/>
+<area shape="rect" id="node13" href="$classCGUIMenuItemGTK3.html" title=" " alt="" coords="683,461,839,488"/>
+<area shape="rect" id="node14" href="$classCGUIMenuShellGTK3.html" title=" " alt="" coords="682,613,841,640"/>
+<area shape="rect" id="node17" href="$classCGUIWindowGTK3.html" title=" " alt="" coords="690,512,833,539"/>
+<area shape="rect" id="node15" href="$classCGUIMenuBarGTK3.html" title=" " alt="" coords="926,696,1074,723"/>
+<area shape="rect" id="node16" href="$classCGUIMenuGTK3.html" title=" " alt="" coords="937,620,1063,647"/>
+<area shape="rect" id="node18" href="$classCGUIFileChooserDialogGTK3.html" title=" " alt="" coords="896,557,1104,584"/>
+<area shape="rect" id="node21" href="$classCGUIMenu.html" title=" " alt="" coords="716,664,807,691"/>
+<area shape="rect" id="node22" href="$classCGUIMenuBar.html" title=" " alt="" coords="705,715,818,741"/>
+<area shape="rect" id="node24" href="$classCGUIFileChooserDialog.html" title=" " alt="" coords="675,563,848,589"/>
+<area shape="rect" id="node26" href="$classCGUIDrawingAreaGTK3.html" title=" " alt="" coords="452,360,627,387"/>
+<area shape="rect" id="node28" href="$classCGUILabelGTK3.html" title=" " alt="" coords="477,309,602,336"/>
+<area shape="rect" id="node30" href="$classCIOChannel.html" title=" " alt="" coords="49,259,148,285"/>
+<area shape="rect" id="node31" href="$classCIOChannelFileGlib.html" title=" " alt="" coords="249,259,395,285"/>
+<area shape="rect" id="node32" title=" " alt="" coords="5,157,192,184"/>
+<area shape="rect" id="node33" href="$classCApplicationData.html" title="Class CApplicationData contains all the information we need to run the game." alt="" coords="255,157,389,184"/>
+</map>

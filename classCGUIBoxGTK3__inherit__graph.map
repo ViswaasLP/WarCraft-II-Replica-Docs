@@ -1,0 +1,9 @@
+<map id="CGUIBoxGTK3" name="CGUIBoxGTK3">
+<area shape="rect" id="node1" title=" " alt="" coords="78,244,193,271"/>
+<area shape="rect" id="node2" href="$classCGUIBox.html" title=" " alt="" coords="25,169,105,196"/>
+<area shape="rect" id="node3" href="$classCGUIContainer.html" title=" " alt="" coords="5,95,124,121"/>
+<area shape="rect" id="node5" href="$classCGUIContainerGTK3.html" title=" " alt="" coords="129,169,283,196"/>
+<area shape="rect" id="node4" href="$classCGUIWidget.html" title=" " alt="" coords="14,13,115,39"/>
+<area shape="rect" id="node6" href="$classCGUIWidgetGTK3.html" title=" " alt="" coords="147,95,283,121"/>
+<area shape="rect" id="node7" title=" " alt="" coords="139,5,339,47"/>
+</map>

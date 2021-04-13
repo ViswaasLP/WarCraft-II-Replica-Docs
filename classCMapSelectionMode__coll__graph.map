@@ -1,0 +1,4 @@
+<map id="CMapSelectionMode" name="CMapSelectionMode">
+<area shape="rect" id="node1" title="This class contains all the information we need to exhibit map&#45;selection interface." alt="" coords="5,80,160,107"/>
+<area shape="rect" id="node2" href="$classCApplicationMode.html" title="This class represents the &quot;state&quot; of our game." alt="" coords="13,5,153,32"/>
+</map>

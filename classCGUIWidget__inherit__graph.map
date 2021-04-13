@@ -1,0 +1,24 @@
+<map id="CGUIWidget" name="CGUIWidget">
+<area shape="rect" id="node1" title=" " alt="" coords="5,284,107,311"/>
+<area shape="rect" id="node2" href="$classCGUIContainer.html" title=" " alt="" coords="165,183,283,209"/>
+<area shape="rect" id="node18" href="$classCGUIDrawingArea.html" title=" " alt="" coords="155,259,293,285"/>
+<area shape="rect" id="node20" href="$classCGUILabel.html" title=" " alt="" coords="179,360,269,387"/>
+<area shape="rect" id="node22" href="$classCGUIWidgetGTK3.html" title=" " alt="" coords="156,309,292,336"/>
+<area shape="rect" id="node3" href="$classCGUIBox.html" title=" " alt="" coords="389,157,469,184"/>
+<area shape="rect" id="node5" href="$classCGUIContainerGTK3.html" title=" " alt="" coords="352,208,505,235"/>
+<area shape="rect" id="node12" href="$classCGUIMenuItem.html" title=" " alt="" coords="368,107,489,133"/>
+<area shape="rect" id="node13" href="$classCGUIMenuShell.html" title=" " alt="" coords="367,56,490,83"/>
+<area shape="rect" id="node16" href="$classCGUIWindow.html" title=" " alt="" coords="375,259,482,285"/>
+<area shape="rect" id="node4" href="$classCGUIBoxGTK3.html" title=" " alt="" coords="593,208,708,235"/>
+<area shape="rect" id="node6" href="$classCGUIMenuItemGTK3.html" title=" " alt="" coords="573,157,729,184"/>
+<area shape="rect" id="node7" href="$classCGUIMenuShellGTK3.html" title=" " alt="" coords="571,107,730,133"/>
+<area shape="rect" id="node10" href="$classCGUIWindowGTK3.html" title=" " alt="" coords="579,259,722,285"/>
+<area shape="rect" id="node8" href="$classCGUIMenuBarGTK3.html" title=" " alt="" coords="815,19,963,45"/>
+<area shape="rect" id="node9" href="$classCGUIMenuGTK3.html" title=" " alt="" coords="826,81,953,108"/>
+<area shape="rect" id="node11" href="$classCGUIFileChooserDialogGTK3.html" title=" " alt="" coords="785,284,993,311"/>
+<area shape="rect" id="node14" href="$classCGUIMenu.html" title=" " alt="" coords="605,56,696,83"/>
+<area shape="rect" id="node15" href="$classCGUIMenuBar.html" title=" " alt="" coords="594,5,707,32"/>
+<area shape="rect" id="node17" href="$classCGUIFileChooserDialog.html" title=" " alt="" coords="564,309,737,336"/>
+<area shape="rect" id="node19" href="$classCGUIDrawingAreaGTK3.html" title=" " alt="" coords="341,309,516,336"/>
+<area shape="rect" id="node21" href="$classCGUILabelGTK3.html" title=" " alt="" coords="366,360,491,387"/>
+</map>

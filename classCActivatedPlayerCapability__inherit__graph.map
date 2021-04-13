@@ -1,0 +1,17 @@
+<map id="CActivatedPlayerCapability" name="CActivatedPlayerCapability">
+<area shape="rect" id="node1" title=" " alt="" coords="5,438,205,465"/>
+<area shape="rect" id="node2" href="$classCPlayerCapabilityAttack_1_1CActivatedCapability.html" title=" " alt="" coords="275,5,455,47"/>
+<area shape="rect" id="node3" href="$classCPlayerCapabilityBuildingUpgrade_1_1CActivatedCapability.html" title=" " alt="" coords="253,71,476,112"/>
+<area shape="rect" id="node4" href="$classCPlayerCapabilityBuildKnight_1_1CActivatedCapability.html" title=" " alt="" coords="258,136,471,177"/>
+<area shape="rect" id="node5" href="$classCPlayerCapabilityBuildNormal_1_1CActivatedCapability.html" title=" " alt="" coords="255,201,474,243"/>
+<area shape="rect" id="node6" href="$classCPlayerCapabilityBuildRanger_1_1CActivatedCapability.html" title=" " alt="" coords="256,267,473,308"/>
+<area shape="rect" id="node7" href="$classCPlayerCapabilityCancel_1_1CActivatedCapability.html" title=" " alt="" coords="273,332,456,373"/>
+<area shape="rect" id="node8" href="$classCPlayerCapabilityConvey_1_1CActivatedCapability.html" title=" " alt="" coords="271,397,458,439"/>
+<area shape="rect" id="node9" href="$classCPlayerCapabilityMineHarvest_1_1CActivatedCapability.html" title=" " alt="" coords="254,463,475,504"/>
+<area shape="rect" id="node10" href="$classCPlayerCapabilityMove_1_1CActivatedCapability.html" title=" " alt="" coords="277,528,452,569"/>
+<area shape="rect" id="node11" href="$classCPlayerCapabilityPatrol_1_1CActivatedCapability.html" title=" " alt="" coords="277,593,452,635"/>
+<area shape="rect" id="node12" href="$classCPlayerCapabilityRepair_1_1CActivatedCapability.html" title=" " alt="" coords="275,659,455,700"/>
+<area shape="rect" id="node13" href="$classCPlayerCapabilityStandGround_1_1CActivatedCapability.html" title=" " alt="" coords="253,724,476,765"/>
+<area shape="rect" id="node14" href="$classCPlayerCapabilityTrainNormal_1_1CActivatedCapability.html" title=" " alt="" coords="256,789,473,831"/>
+<area shape="rect" id="node15" href="$classCPlayerCapabilityUnitUpgrade_1_1CActivatedCapability.html" title=" " alt="" coords="255,855,475,896"/>
+</map>
